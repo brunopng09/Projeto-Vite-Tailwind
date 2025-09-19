@@ -1,3 +1,1 @@
-@tailwind base;  {/* Reseta e aplica os estilos básicos */}
-@tailwind components; {/* Vai utilizar os componentes do tailwind prontos */}
-@tailwind utilities; {/* Irá usar utilitarios do tailwind ex: flex, grid, etc */}
+@import "tailwindcss"
